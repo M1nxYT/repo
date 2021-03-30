@@ -2,13 +2,13 @@
     <footerlinks>
         <link>
             <name>Follow me on Twitter</name>
-            <url>https://twitter.com/truesyns</url>
+            <url>https://twitter.com/minxter17_</url>
             <iconclass>glyphicon glyphicon-user</iconclass>
         </link>
         <link>
-            <name>I want this depiction template</name>
-            <url>https://github.com/syns/repo.me</url>
-            <iconclass>glyphicon glyphicon-thumbs-up</iconclass>
+            <name>Support Discord</name>
+            <url>https://discord.gg/mJ97Ausk8n</url>
+            <iconclass>glyphicon glyphicon-question-sign</iconclass>
         </link>
     </footerlinks>
 </repo>
