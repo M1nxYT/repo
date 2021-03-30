@@ -1,0 +1,37 @@
+Architectures: iphoneos-arm
+Codename: Euclidean Repo
+Components: main
+Date: Tue, 30 Mar 2021 17:57:36 +0000
+Description: Just Another Euclidean Repo
+Label: Euclidean Repo
+Origin: https://euclideanrepo.github.io/
+Suite: stable
+Version: 1.0
+MD5Sum:
+ 5bbe2f905cc860feaf92b7d21cdd0e8f              637 Packages
+ ca57c859fec1fe6fc6151633bdb07aa3              485 Packages.bz2
+ b096cfc28a1372ca2f56240b0e064e34              453 Packages.gz
+ d9e42660ed708439ca9d6ec834d7a4e7              516 Packages.xz
+ d41d8cd98f00b204e9800998ecf8427e                0 Packages.zst
+ af325d923622361e350c0722f458a82f              239 Release
+SHA1:
+ 9d7acbaced95ac613ef9aa0934d98b9736a11e7d              637 Packages
+ 508728eecab235ffa93a8a15e8f3de0a17cd19a1              485 Packages.bz2
+ c0c56ab7eca1bae7ebbfcd54c56b6599398f9d55              453 Packages.gz
+ d4d4fd496dfb51772ca4f40cd9f0c33a611d46fe              516 Packages.xz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 Packages.zst
+ 99971f9d5870a94d29dc6df11ce8f87160c4e0dc              239 Release
+SHA256:
+ b775f5cef1e3d6b2e2539c56864e55f61557a906d6a516e7b4d403ae6b46b49a              637 Packages
+ 5a297c6122f6879fdeb8bf7a1d5c59a3ff7cb736915975b5e641e0ad03d9df7e              485 Packages.bz2
+ 7e0f9e664034c9ec722af484bbe8de3b215bbb653ae54dcdae6d2717116c4618              453 Packages.gz
+ bd60af9786dd37c2b9416771db6c2f87e084a85f60aa4d35d986b2b49384c7af              516 Packages.xz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 Packages.zst
+ 30efe08a58c11632e14dd12feef25cf0b6574b2e23515c55387e5d8c0634e79f              239 Release
+SHA512:
+ 1577c5065025edd0ea548757bbda4a086f93a7dc931d0c7cf00abdccd9a42baae5d95129e625697d618f6eaae569d6519cac476cbf424b440fd72e2131c6285f              637 Packages
+ ad1185748e20431b1060ab457580bf1963482142f701af8779b6ba960c180bab02d1a098a92cd427979e463b9d8f95f14d3b90af9851d9083eadcd09a6e84354              485 Packages.bz2
+ 7be8e752713c67622f6d787bbcc549c210063771537d523308862fbff61e0b6923526126a274c4936b65350a20b954fa7c409e0e8f3a641a4268079017ec8145              453 Packages.gz
+ 7606adc8dd13fb3b2b908141f0e4dcfa88e3408ce47e2bc369e62174718f1b5feb39120323ae5ca2d3aea012b5f1685adb55d0b62434987b3f42f7154dccd188              516 Packages.xz
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 Packages.zst
+ 2784f3745c400728c90707cee8f7e8ae601eaadba35c41f46d5399fe95d305e3dfda5bf1df93cbd821d073b10598978d687b7e90573fc697430a991be8ca7313              239 Release
