@@ -49,11 +49,14 @@ html {    background-color: var(--bg-color);    color: var(--font-color);    fon
   align-items: center;
   justify-content: center;
   margin-top: 2rem;
-  width: inherit;
 }
 .row .col{
 	padding: 0.75rem;
 
+}
+
+.card .card-image img {
+	border-radius: 15px 15px 0 0;
 }
 
 .card .card-action {
@@ -61,6 +64,10 @@ html {    background-color: var(--bg-color);    color: var(--font-color);    fon
 	border-top: none;
 	font-weight: bold;
 	font-size: 15px;
+}
+
+.card .card-action:last-child {
+  border-radius: 0 0 15px 15px;
 }
 
 .card .card-content {
@@ -74,6 +81,7 @@ html {    background-color: var(--bg-color);    color: var(--font-color);    fon
 .card {
   background-color: inherit;
 	width: 300px;
+	border-radius: 15px;
 }
 
 .slider {
