@@ -4,9 +4,9 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://raw.githubusercontent.com/syns/repo.me/master/assets/Banners/RepoHeader.png",
-        "title": "Sample Package",
-        "package": "me.syns.samplepackage",
+        "url": "https://raw.githubusercontent.com/EuclideanRepo/euclideanrepo.github.io/main/assets/repo/Banners/alphaBanner.png",
+        "title": "Alpha",
+        "package": "xyz.minxteryt.alpha",
         "hideShadow": false
     }
   ]
