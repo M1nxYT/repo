@@ -48,8 +48,11 @@ html {    background-color: var(--bg-color);    color: var(--font-color);    fon
   padding: 0;
   align-items: center;
   justify-content: center;
-  width: 100%;
   margin-top: 2rem;
+}
+.row .col{
+	padding: 0.75rem;
+
 }
 
 .card .card-action {
