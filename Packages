@@ -15,3 +15,20 @@ Description: An awesome MobileSubstrate tweak!
 Name: Alpha
 Author: MinxterYT
 
+Package: xyz.minxteryt.beta
+Architecture: iphoneos-arm
+Version: 0.0.1-8+debug
+Section: Tweaks
+Maintainer: MinxterYT
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/xyz.minxteryt.beta_0.0.1-8+debug_iphoneos-arm.deb
+Size: 3212
+MD5sum: b97c2d3a13f39b43b8d54a7981957187
+SHA1: 00abacb44ce1a84728444309960178e83502e824
+SHA256: 2dc4af46d147fbd421b7712e6e280ddf9612866a83616911e96f742ee78755bb
+SHA512: 5cf3d6edff7508b84bedf5bb3bc8a3d779f540c651daf929774d4f06060cd0e7a88480882fab6b8a3c9126ef4e5e942a50b473c60f669fbdfc91a0d027a03958
+Description: Remove Folder Backgrounds!
+Name: Beta
+Author: MinxterYT
+
