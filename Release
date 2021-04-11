@@ -1,7 +1,7 @@
 Architectures: iphoneos-arm
 Codename: Euclidean Repo
 Components: main
-Date: Sun, 11 Apr 2021 13:11:05 +0000
+Date: Sun, 11 Apr 2021 13:53:58 +0000
 Description: Just Another Euclidean Repo
 Label: Euclidean Repo
 Origin: https://euclideanrepo.github.io/
@@ -10,28 +10,28 @@ Version: 1.0
 MD5Sum:
  018794d2e3cccd4a3fc21c3beded3397             1261 Packages
  bb8790706175f2e1e5e7704ff634b50c              744 Packages.bz2
- 191cd95e25bc398b07c0cd8b57ca6096              685 Packages.gz
+ 6becd750da1d6411458f2006bc75d342              685 Packages.gz
  ca5f8b8796b210ec9209f03bfbad204c              736 Packages.xz
  d41d8cd98f00b204e9800998ecf8427e                0 Packages.zst
- 77e2f395fb8c84ff44b0289ffd87af87              239 Release
+ 6ca8513ab1aad7459f3b82fd9680ed03              239 Release
 SHA1:
  6b73f4c41773fd9f7c58415032ea846de4d63dc6             1261 Packages
  ab34b0e4e04815477fbe257629e7a8d21a395c08              744 Packages.bz2
- d4b0703a76b32fa4cabde4d0898fae29b051b860              685 Packages.gz
+ 0af02136f44f5c51bd13e66dc0de85c32e35514c              685 Packages.gz
  c7cb79af61b6135ac9b4dbd4e187b5b1587b923e              736 Packages.xz
  da39a3ee5e6b4b0d3255bfef95601890afd80709                0 Packages.zst
- 3ed747aafbc4f9ff27a9a0c01fefbed247c483d7              239 Release
+ 3938c7e870a85be0c0d47bcbf02a8055d49c5ccb              239 Release
 SHA256:
  c917594a23abbbb47b0b9514f34793a4602e5c77bd0fa31006838965217d7817             1261 Packages
  97c131dafcc5b7977a0eaea6528cca695636cd5637ced4a35cfd3eb073b6722e              744 Packages.bz2
- 0f3d4eec487f5421b28c072abf68f95abdc8686fb63b82aef6e3e0aed9f7aab2              685 Packages.gz
+ 24b918d862325a90401db14ee05a8dcbd91fb9eb50d22f25a1a31a6c1dd7bcf8              685 Packages.gz
  845b2b35c6708e9b6821c23c7696d5fcbacd6d82c9356e8dea9664736307a953              736 Packages.xz
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 Packages.zst
- 877d2fca276da41f7a9d123cd4a4c9931ac6ead8e5fe098427c47a38b0a3a624              239 Release
+ 4b9b66bb54478065f59c5ec0fb29e22717d58149c44c1469f2976c3e7812bbaa              239 Release
 SHA512:
  10d11c04ffb6019b68b8fa9b1f8ede47c3de5310865eb3c8958cc0c258e22d1bdba75c4b7479e88e8ce5a0c89cd182a0fd6d6ec547a15c6ad59c5543aa44a0af             1261 Packages
  35cb55177db5e3fb36eafd201e5a36396fbf78953d8f57008dc222ea5706f708344bfe0b9b1da9c78bf7984fd15177a6f80c9228d9901408e7ba1dd479146137              744 Packages.bz2
- c6cbf17ea57a3c4cc7b38eb45f00f7ac53fd17c20038711801f4e2ad4f65b8df58005731f2e6fefd04539c9e1c531bc12ee6fda2a4a8fdcae7166a3ce80ac15e              685 Packages.gz
+ f6773fb0c69d056519d71c8f39fe4d0005ece9d27165f5d468b01a779743914c486e7fa7bb5ff9b0f86aab300b3a141a0cf6568c24bc4720000683874751e632              685 Packages.gz
  2f5f590a4586c5650df7ef8ca22f3cdc00c6fef2fd57f8b97d7dd31c6c39e3a0e273a0e784d0cb6c6d7a3fc67aeb1f4b2757c3ae4ea3a2b1a9616d2fe2e72c9c              736 Packages.xz
  cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 Packages.zst
- 5731c004fa9c669950e90bda33eb7d9de286a25c609df7bd6fb3766073f41dcbbf9eda669d45f76c6f7f83aa532c96f6abd56e8ea168ff13b98a5543b3aed65b              239 Release
+ 3e126ebdb153e33d2c649f2ecc4624b938e979ca38026522dc935310bee62d1f51b3a0f9806707c5ffdc8eae6d9ce84b9c1b9affdab7fc0401075ac108d93a06              239 Release
